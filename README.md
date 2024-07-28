@@ -65,13 +65,13 @@ where `n` is the number of trials and `0 <= p <= 1` is the success probability.
 ## Usage
 
 ```javascript
-import pmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-pmf@esm/index.mjs';
+import pmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-pmf@v0.2.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-pmf@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-pmf@v0.2.2-esm/index.mjs';
 ```
 
 #### pmf( x, n, p )
@@ -157,7 +157,7 @@ y = mypmf( 5.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import pmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-pmf@esm/index.mjs';
+import pmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-pmf@v0.2.2-esm/index.mjs';
 
 var i;
 var n;
