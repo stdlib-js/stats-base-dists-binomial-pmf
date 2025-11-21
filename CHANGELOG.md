@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-25)
+## Unreleased (2025-11-21)
 
 <section class="features">
 
@@ -34,9 +34,13 @@ This release closes the following issue:
 
 <details>
 
+-   [`2cabe18`](https://github.com/stdlib-js/stdlib/commit/2cabe1887e6a502a306b70580fb5d038da0917f3) - **docs:** fix return values in TSDoc return annotation comments _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`797e534`](https://github.com/stdlib-js/stdlib/commit/797e53461faa68130f467a325f4996892e62a05a) - **feat:** add C implementation for `stats/base/dists/binomial/pmf` [(#4359)](https://github.com/stdlib-js/stdlib/pull/4359) _(by Abhijit Raut, Philipp Burckhardt, stdlib-bot)_
--   [`a5e0667`](https://github.com/stdlib-js/stdlib/commit/a5e0667c308881e101549d77c6d8573e3b632c67) - **docs:** replace manual `for` loop in examples [(#6849)](https://github.com/stdlib-js/stdlib/pull/6849) _(by Harsh, Athan Reines)_
--   [`22c4c3e`](https://github.com/stdlib-js/stdlib/commit/22c4c3e5ffc0356aabf7b740b8e201e9ee427901) - **bench:** update random value generation [(#6857)](https://github.com/stdlib-js/stdlib/pull/6857) _(by Harsh)_
+-   [`a5e0667`](https://github.com/stdlib-js/stdlib/commit/a5e0667c308881e101549d77c6d8573e3b632c67) - **docs:** replace manual `for` loop in examples [(#6849)](https://github.com/stdlib-js/stdlib/pull/6849) _(by Harsh Yadav, Athan Reines)_
+-   [`22c4c3e`](https://github.com/stdlib-js/stdlib/commit/22c4c3e5ffc0356aabf7b740b8e201e9ee427901) - **bench:** update random value generation [(#6857)](https://github.com/stdlib-js/stdlib/pull/6857) _(by Harsh Yadav)_
 -   [`af55f0d`](https://github.com/stdlib-js/stdlib/commit/af55f0d6d6b4d06c36f46357740ea89a4639ab5b) - **bench:** refactor random number generation in `stats/base/dists/binomial` [(#4841)](https://github.com/stdlib-js/stdlib/pull/4841) _(by Karan Anand)_
 
 </details>
@@ -53,7 +57,7 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 -   Abhijit Raut
 -   Athan Reines
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 
