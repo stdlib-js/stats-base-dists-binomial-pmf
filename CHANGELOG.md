@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-02)
+## Unreleased (2026-09-03)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`570a9ef`](https://github.com/stdlib-js/stdlib/commit/570a9ef4e872e07b37c0e95aafb0cf2c340f327e) - **test:** migrate `stats/base/dists/binomial/pmf` to ULP-based assertions [(#14914)](https://github.com/stdlib-js/stdlib/pull/14914) _(by Aryan kumar)_
 -   [`0204d5b`](https://github.com/stdlib-js/stdlib/commit/0204d5b64b628abb922b32e83dfa5d4919b2a4b1) - **chore:** update keywords [(#11902)](https://github.com/stdlib-js/stdlib/pull/11902) _(by Philipp Burckhardt)_
 -   [`675c404`](https://github.com/stdlib-js/stdlib/commit/675c404341e210a6ff4d37477bbc3f79e927fd8d) - **bench:** refactor to use string interpolation in `stats/base/dists/binomial` [(#10176)](https://github.com/stdlib-js/stdlib/pull/10176) _(by Vishal Gaikwad)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan kumar
 -   Philipp Burckhardt
 -   Vishal Gaikwad
 
